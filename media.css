@@ -1,0 +1,14 @@
+
+@media (max-width: 940px){
+    .header__menu{
+     display: none;
+    }   
+ .banner__content{
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    position: static;
+}
+
+}
